@@ -1,0 +1,511 @@
+{"ts": "2026-11-08T18:59:06.275897+00:00", "finding_id": "silent_discount:cust_000039", "step": "detect", "type": "silent_discount", "impact_usd": 4037.0}
+{"ts": "2026-11-08T18:59:06.276181+00:00", "finding_id": "unbilled_expansion:cust_000065", "step": "detect", "type": "unbilled_expansion", "impact_usd": 1715.0}
+{"ts": "2026-11-08T18:59:06.276246+00:00", "finding_id": "unbilled_expansion:cust_000077", "step": "detect", "type": "unbilled_expansion", "impact_usd": 4128.0}
+{"ts": "2026-11-08T18:59:06.276292+00:00", "finding_id": "unbilled_expansion:cust_000079", "step": "detect", "type": "unbilled_expansion", "impact_usd": 1972.0}
+{"ts": "2026-11-08T18:59:06.276333+00:00", "finding_id": "silent_discount:cust_000092", "step": "detect", "type": "silent_discount", "impact_usd": 5432.0}
+{"ts": "2026-11-08T18:59:06.276372+00:00", "finding_id": "silent_discount:cust_000158", "step": "detect", "type": "silent_discount", "impact_usd": 5997.0}
+{"ts": "2026-11-08T18:59:06.276409+00:00", "finding_id": "unbilled_expansion:cust_000176", "step": "detect", "type": "unbilled_expansion", "impact_usd": 2728.0}
+{"ts": "2026-11-08T18:59:06.276455+00:00", "finding_id": "unbilled_expansion:cust_000203", "step": "detect", "type": "unbilled_expansion", "impact_usd": 13615.0}
+{"ts": "2026-11-08T18:59:06.276506+00:00", "finding_id": "unbilled_expansion:cust_000218", "step": "detect", "type": "unbilled_expansion", "impact_usd": 46736.0}
+{"ts": "2026-11-08T18:59:06.276543+00:00", "finding_id": "silent_discount:cust_000220", "step": "detect", "type": "silent_discount", "impact_usd": 1910.0}
+{"ts": "2026-11-08T18:59:06.276579+00:00", "finding_id": "silent_discount:cust_000238", "step": "detect", "type": "silent_discount", "impact_usd": 679.0}
+{"ts": "2026-11-08T18:59:06.276616+00:00", "finding_id": "silent_discount:cust_000248", "step": "detect", "type": "silent_discount", "impact_usd": 14755.0}
+{"ts": "2026-11-08T18:59:06.276676+00:00", "finding_id": "silent_discount:cust_000250", "step": "detect", "type": "silent_discount", "impact_usd": 4473.0}
+{"ts": "2026-11-08T18:59:06.276741+00:00", "finding_id": "unbilled_expansion:cust_000264", "step": "detect", "type": "unbilled_expansion", "impact_usd": 24703.0}
+{"ts": "2026-11-08T18:59:06.276796+00:00", "finding_id": "unbilled_expansion:cust_000347", "step": "detect", "type": "unbilled_expansion", "impact_usd": 35238.0}
+{"ts": "2026-11-08T18:59:06.276856+00:00", "finding_id": "unbilled_expansion:cust_000351", "step": "detect", "type": "unbilled_expansion", "impact_usd": 54839.0}
+{"ts": "2026-11-08T18:59:06.276900+00:00", "finding_id": "silent_discount:cust_000378", "step": "detect", "type": "silent_discount", "impact_usd": 12949.0}
+{"ts": "2026-11-08T18:59:06.276984+00:00", "finding_id": "silent_discount:cust_000405", "step": "detect", "type": "silent_discount", "impact_usd": 1494.0}
+{"ts": "2026-11-08T18:59:06.277024+00:00", "finding_id": "unbilled_expansion:cust_000411", "step": "detect", "type": "unbilled_expansion", "impact_usd": 6984.0}
+{"ts": "2026-11-08T18:59:06.277061+00:00", "finding_id": "silent_discount:cust_000421", "step": "detect", "type": "silent_discount", "impact_usd": 2784.0}
+{"ts": "2026-11-08T18:59:06.277099+00:00", "finding_id": "unbilled_expansion:cust_000424", "step": "detect", "type": "unbilled_expansion", "impact_usd": 11828.0}
+{"ts": "2026-11-08T18:59:06.277135+00:00", "finding_id": "silent_discount:cust_000448", "step": "detect", "type": "silent_discount", "impact_usd": 1972.0}
+{"ts": "2026-11-08T18:59:06.277172+00:00", "finding_id": "silent_discount:cust_000455", "step": "detect", "type": "silent_discount", "impact_usd": 917.0}
+{"ts": "2026-11-08T18:59:06.277208+00:00", "finding_id": "silent_discount:cust_000485", "step": "detect", "type": "silent_discount", "impact_usd": 6109.0}
+{"ts": "2026-11-08T18:59:06.277248+00:00", "finding_id": "silent_discount:cust_000528", "step": "detect", "type": "silent_discount", "impact_usd": 12888.0}
+{"ts": "2026-11-08T18:59:06.277284+00:00", "finding_id": "unbilled_expansion:cust_000552", "step": "detect", "type": "unbilled_expansion", "impact_usd": 20468.0}
+{"ts": "2026-11-08T18:59:06.277324+00:00", "finding_id": "silent_discount:cust_000586", "step": "detect", "type": "silent_discount", "impact_usd": 2249.0}
+{"ts": "2026-11-08T18:59:06.277359+00:00", "finding_id": "unbilled_expansion:cust_000601", "step": "detect", "type": "unbilled_expansion", "impact_usd": 2865.0}
+{"ts": "2026-11-08T18:59:06.277426+00:00", "finding_id": "silent_discount:cust_000606", "step": "detect", "type": "silent_discount", "impact_usd": 2570.0}
+{"ts": "2026-11-08T18:59:06.277481+00:00", "finding_id": "silent_discount:cust_000615", "step": "detect", "type": "silent_discount", "impact_usd": 810.0}
+{"ts": "2026-11-08T18:59:06.277522+00:00", "finding_id": "silent_discount:cust_000628", "step": "detect", "type": "silent_discount", "impact_usd": 3105.0}
+{"ts": "2026-11-08T18:59:06.277562+00:00", "finding_id": "silent_discount:cust_000643", "step": "detect", "type": "silent_discount", "impact_usd": 5157.0}
+{"ts": "2026-11-08T18:59:06.277599+00:00", "finding_id": "silent_discount:cust_000741", "step": "detect", "type": "silent_discount", "impact_usd": 2885.0}
+{"ts": "2026-11-08T18:59:06.277646+00:00", "finding_id": "unbilled_expansion:cust_000790", "step": "detect", "type": "unbilled_expansion", "impact_usd": 2063.0}
+{"ts": "2026-11-08T18:59:06.277687+00:00", "finding_id": "unbilled_expansion:cust_000793", "step": "detect", "type": "unbilled_expansion", "impact_usd": 37002.0}
+{"ts": "2026-11-08T18:59:06.277724+00:00", "finding_id": "unbilled_expansion:cust_000819", "step": "detect", "type": "unbilled_expansion", "impact_usd": 4632.0}
+{"ts": "2026-11-08T18:59:06.277760+00:00", "finding_id": "unbilled_expansion:cust_000850", "step": "detect", "type": "unbilled_expansion", "impact_usd": 1989.0}
+{"ts": "2026-11-08T18:59:06.277796+00:00", "finding_id": "unbilled_expansion:cust_000860", "step": "detect", "type": "unbilled_expansion", "impact_usd": 104033.0}
+{"ts": "2026-11-08T18:59:06.277831+00:00", "finding_id": "silent_discount:cust_000887", "step": "detect", "type": "silent_discount", "impact_usd": 4972.0}
+{"ts": "2026-11-08T18:59:06.277866+00:00", "finding_id": "silent_discount:cust_000888", "step": "detect", "type": "silent_discount", "impact_usd": 1917.0}
+{"ts": "2026-11-08T18:59:06.277918+00:00", "finding_id": "unbilled_expansion:cust_000955", "step": "detect", "type": "unbilled_expansion", "impact_usd": 14584.0}
+{"ts": "2026-11-08T18:59:06.277970+00:00", "finding_id": "silent_discount:cust_000958", "step": "detect", "type": "silent_discount", "impact_usd": 2047.0}
+{"ts": "2026-11-08T18:59:06.278009+00:00", "finding_id": "unbilled_expansion:cust_000975", "step": "detect", "type": "unbilled_expansion", "impact_usd": 49126.0}
+{"ts": "2026-11-08T18:59:06.278046+00:00", "finding_id": "silent_discount:cust_001027", "step": "detect", "type": "silent_discount", "impact_usd": 1962.0}
+{"ts": "2026-11-08T18:59:06.278082+00:00", "finding_id": "silent_discount:cust_001039", "step": "detect", "type": "silent_discount", "impact_usd": 9997.0}
+{"ts": "2026-11-08T18:59:06.278117+00:00", "finding_id": "silent_discount:cust_001080", "step": "detect", "type": "silent_discount", "impact_usd": 17423.0}
+{"ts": "2026-11-08T18:59:06.278152+00:00", "finding_id": "silent_discount:cust_001093", "step": "detect", "type": "silent_discount", "impact_usd": 5631.0}
+{"ts": "2026-11-08T18:59:06.278188+00:00", "finding_id": "unbilled_expansion:cust_001123", "step": "detect", "type": "unbilled_expansion", "impact_usd": 17700.0}
+{"ts": "2026-11-08T18:59:06.278223+00:00", "finding_id": "silent_discount:cust_001170", "step": "detect", "type": "silent_discount", "impact_usd": 9185.0}
+{"ts": "2026-11-08T18:59:06.278258+00:00", "finding_id": "silent_discount:cust_001186", "step": "detect", "type": "silent_discount", "impact_usd": 5173.0}
+{"ts": "2026-11-08T18:59:06.278293+00:00", "finding_id": "unbilled_expansion:cust_001222", "step": "detect", "type": "unbilled_expansion", "impact_usd": 10403.0}
+{"ts": "2026-11-08T18:59:06.278328+00:00", "finding_id": "unbilled_expansion:cust_001224", "step": "detect", "type": "unbilled_expansion", "impact_usd": 24971.0}
+{"ts": "2026-11-08T18:59:06.278367+00:00", "finding_id": "unbilled_expansion:cust_001238", "step": "detect", "type": "unbilled_expansion", "impact_usd": 4397.0}
+{"ts": "2026-11-08T18:59:06.278402+00:00", "finding_id": "silent_discount:cust_001241", "step": "detect", "type": "silent_discount", "impact_usd": 2255.0}
+{"ts": "2026-11-08T18:59:06.278438+00:00", "finding_id": "silent_discount:cust_001262", "step": "detect", "type": "silent_discount", "impact_usd": 9432.0}
+{"ts": "2026-11-08T18:59:06.278473+00:00", "finding_id": "unbilled_expansion:cust_001338", "step": "detect", "type": "unbilled_expansion", "impact_usd": 5614.0}
+{"ts": "2026-11-08T18:59:06.278508+00:00", "finding_id": "silent_discount:cust_001356", "step": "detect", "type": "silent_discount", "impact_usd": 8308.0}
+{"ts": "2026-11-08T18:59:06.278541+00:00", "finding_id": "silent_discount:cust_001388", "step": "detect", "type": "silent_discount", "impact_usd": 3521.0}
+{"ts": "2026-11-08T18:59:06.278578+00:00", "finding_id": "silent_discount:cust_001393", "step": "detect", "type": "silent_discount", "impact_usd": 4236.0}
+{"ts": "2026-11-08T18:59:06.278612+00:00", "finding_id": "silent_discount:cust_001408", "step": "detect", "type": "silent_discount", "impact_usd": 1430.0}
+{"ts": "2026-11-08T18:59:06.278658+00:00", "finding_id": "unbilled_expansion:cust_001436", "step": "detect", "type": "unbilled_expansion", "impact_usd": 2860.0}
+{"ts": "2026-11-08T18:59:06.278723+00:00", "finding_id": "silent_discount:cust_001438", "step": "detect", "type": "silent_discount", "impact_usd": 1570.0}
+{"ts": "2026-11-08T18:59:06.278766+00:00", "finding_id": "silent_discount:cust_001439", "step": "detect", "type": "silent_discount", "impact_usd": 1413.0}
+{"ts": "2026-11-08T18:59:06.278806+00:00", "finding_id": "unbilled_expansion:cust_001448", "step": "detect", "type": "unbilled_expansion", "impact_usd": 9070.0}
+{"ts": "2026-11-08T18:59:06.278843+00:00", "finding_id": "unbilled_expansion:cust_001461", "step": "detect", "type": "unbilled_expansion", "impact_usd": 2128.0}
+{"ts": "2026-11-08T18:59:06.278878+00:00", "finding_id": "billing_gap:cust_000021:20240613", "step": "detect", "type": "billing_gap", "impact_usd": 3016.0}
+{"ts": "2026-11-08T18:59:06.278936+00:00", "finding_id": "billing_gap:cust_000022:20240712", "step": "detect", "type": "billing_gap", "impact_usd": 13732.0}
+{"ts": "2026-11-08T18:59:06.278984+00:00", "finding_id": "billing_gap:cust_000023:20240513", "step": "detect", "type": "billing_gap", "impact_usd": 8708.0}
+{"ts": "2026-11-08T18:59:06.279023+00:00", "finding_id": "billing_gap:cust_000074:20240716", "step": "detect", "type": "billing_gap", "impact_usd": 47756.0}
+{"ts": "2026-11-08T18:59:06.279086+00:00", "finding_id": "billing_gap:cust_000129:20241008", "step": "detect", "type": "billing_gap", "impact_usd": 16000.0}
+{"ts": "2026-11-08T18:59:06.279132+00:00", "finding_id": "billing_gap:cust_000132:20240927", "step": "detect", "type": "billing_gap", "impact_usd": 2801.0}
+{"ts": "2026-11-08T18:59:06.279172+00:00", "finding_id": "billing_gap:cust_000135:20240910", "step": "detect", "type": "billing_gap", "impact_usd": 7105.0}
+{"ts": "2026-11-08T18:59:06.279209+00:00", "finding_id": "billing_gap:cust_000153:20241124", "step": "detect", "type": "billing_gap", "impact_usd": 5102.0}
+{"ts": "2026-11-08T18:59:06.279273+00:00", "finding_id": "billing_gap:cust_000197:20240920", "step": "detect", "type": "billing_gap", "impact_usd": 1118.0}
+{"ts": "2026-11-08T18:59:06.279331+00:00", "finding_id": "billing_gap:cust_000214:20240717", "step": "detect", "type": "billing_gap", "impact_usd": 6392.0}
+{"ts": "2026-11-08T18:59:06.279381+00:00", "finding_id": "billing_gap:cust_000237:20240529", "step": "detect", "type": "billing_gap", "impact_usd": 27134.0}
+{"ts": "2026-11-08T18:59:06.279426+00:00", "finding_id": "billing_gap:cust_000244:20241016", "step": "detect", "type": "billing_gap", "impact_usd": 13890.0}
+{"ts": "2026-11-08T18:59:06.279471+00:00", "finding_id": "billing_gap:cust_000329:20241114", "step": "detect", "type": "billing_gap", "impact_usd": 7285.0}
+{"ts": "2026-11-08T18:59:06.279523+00:00", "finding_id": "billing_gap:cust_000336:20240913", "step": "detect", "type": "billing_gap", "impact_usd": 5786.0}
+{"ts": "2026-11-08T18:59:06.279562+00:00", "finding_id": "billing_gap:cust_000361:20240904", "step": "detect", "type": "billing_gap", "impact_usd": 12048.0}
+{"ts": "2026-11-08T18:59:06.279599+00:00", "finding_id": "billing_gap:cust_000369:20240425", "step": "detect", "type": "billing_gap", "impact_usd": 10857.0}
+{"ts": "2026-11-08T18:59:06.279644+00:00", "finding_id": "billing_gap:cust_000437:20241010", "step": "detect", "type": "billing_gap", "impact_usd": 3930.0}
+{"ts": "2026-11-08T18:59:06.279684+00:00", "finding_id": "billing_gap:cust_000463:20240829", "step": "detect", "type": "billing_gap", "impact_usd": 1418.0}
+{"ts": "2026-11-08T18:59:06.279720+00:00", "finding_id": "billing_gap:cust_000474:20241023", "step": "detect", "type": "billing_gap", "impact_usd": 15150.0}
+{"ts": "2026-11-08T18:59:06.279757+00:00", "finding_id": "billing_gap:cust_000560:20240930", "step": "detect", "type": "billing_gap", "impact_usd": 6920.0}
+{"ts": "2026-11-08T18:59:06.279793+00:00", "finding_id": "billing_gap:cust_000633:20241021", "step": "detect", "type": "billing_gap", "impact_usd": 6656.0}
+{"ts": "2026-11-08T18:59:06.279827+00:00", "finding_id": "billing_gap:cust_000649:20241018", "step": "detect", "type": "billing_gap", "impact_usd": 8174.0}
+{"ts": "2026-11-08T18:59:06.279864+00:00", "finding_id": "billing_gap:cust_000708:20241017", "step": "detect", "type": "billing_gap", "impact_usd": 36698.0}
+{"ts": "2026-11-08T18:59:06.279900+00:00", "finding_id": "billing_gap:cust_000710:20241114", "step": "detect", "type": "billing_gap", "impact_usd": 6410.0}
+{"ts": "2026-11-08T18:59:06.279989+00:00", "finding_id": "billing_gap:cust_000736:20240610", "step": "detect", "type": "billing_gap", "impact_usd": 3558.0}
+{"ts": "2026-11-08T18:59:06.280032+00:00", "finding_id": "billing_gap:cust_000742:20240808", "step": "detect", "type": "billing_gap", "impact_usd": 6538.0}
+{"ts": "2026-11-08T18:59:06.280071+00:00", "finding_id": "billing_gap:cust_000795:20241030", "step": "detect", "type": "billing_gap", "impact_usd": 7352.0}
+{"ts": "2026-11-08T18:59:06.280109+00:00", "finding_id": "billing_gap:cust_000815:20241115", "step": "detect", "type": "billing_gap", "impact_usd": 2806.0}
+{"ts": "2026-11-08T18:59:06.280145+00:00", "finding_id": "billing_gap:cust_000827:20241021", "step": "detect", "type": "billing_gap", "impact_usd": 3826.0}
+{"ts": "2026-11-08T18:59:06.280183+00:00", "finding_id": "billing_gap:cust_000869:20240921", "step": "detect", "type": "billing_gap", "impact_usd": 9858.0}
+{"ts": "2026-11-08T18:59:06.280220+00:00", "finding_id": "billing_gap:cust_000969:20241007", "step": "detect", "type": "billing_gap", "impact_usd": 10728.0}
+{"ts": "2026-11-08T18:59:06.280257+00:00", "finding_id": "billing_gap:cust_001002:20241003", "step": "detect", "type": "billing_gap", "impact_usd": 6992.0}
+{"ts": "2026-11-08T18:59:06.280292+00:00", "finding_id": "billing_gap:cust_001045:20240922", "step": "detect", "type": "billing_gap", "impact_usd": 21258.0}
+{"ts": "2026-11-08T18:59:06.280329+00:00", "finding_id": "billing_gap:cust_001050:20240317", "step": "detect", "type": "billing_gap", "impact_usd": 1774.0}
+{"ts": "2026-11-08T18:59:06.280365+00:00", "finding_id": "billing_gap:cust_001100:20240211", "step": "detect", "type": "billing_gap", "impact_usd": 7940.0}
+{"ts": "2026-11-08T18:59:06.280402+00:00", "finding_id": "billing_gap:cust_001102:20240830", "step": "detect", "type": "billing_gap", "impact_usd": 37426.0}
+{"ts": "2026-11-08T18:59:06.280437+00:00", "finding_id": "billing_gap:cust_001103:20240714", "step": "detect", "type": "billing_gap", "impact_usd": 6424.0}
+{"ts": "2026-11-08T18:59:06.280472+00:00", "finding_id": "billing_gap:cust_001150:20240619", "step": "detect", "type": "billing_gap", "impact_usd": 11774.0}
+{"ts": "2026-11-08T18:59:06.280508+00:00", "finding_id": "billing_gap:cust_001168:20240514", "step": "detect", "type": "billing_gap", "impact_usd": 43490.0}
+{"ts": "2026-11-08T18:59:06.280544+00:00", "finding_id": "billing_gap:cust_001179:20240326", "step": "detect", "type": "billing_gap", "impact_usd": 15060.0}
+{"ts": "2026-11-08T18:59:06.280583+00:00", "finding_id": "billing_gap:cust_001240:20240415", "step": "detect", "type": "billing_gap", "impact_usd": 15418.0}
+{"ts": "2026-11-08T18:59:06.280619+00:00", "finding_id": "billing_gap:cust_001267:20240704", "step": "detect", "type": "billing_gap", "impact_usd": 13182.0}
+{"ts": "2026-11-08T18:59:06.280669+00:00", "finding_id": "billing_gap:cust_001283:20240917", "step": "detect", "type": "billing_gap", "impact_usd": 5182.0}
+{"ts": "2026-11-08T18:59:06.280707+00:00", "finding_id": "billing_gap:cust_001304:20240331", "step": "detect", "type": "billing_gap", "impact_usd": 2144.0}
+{"ts": "2026-11-08T18:59:06.280742+00:00", "finding_id": "billing_gap:cust_001318:20241109", "step": "detect", "type": "billing_gap", "impact_usd": 6415.0}
+{"ts": "2026-11-08T18:59:06.280778+00:00", "finding_id": "billing_gap:cust_001344:20241006", "step": "detect", "type": "billing_gap", "impact_usd": 14006.0}
+{"ts": "2026-11-08T18:59:06.280814+00:00", "finding_id": "billing_gap:cust_001358:20240608", "step": "detect", "type": "billing_gap", "impact_usd": 1007.0}
+{"ts": "2026-11-08T18:59:06.280851+00:00", "finding_id": "billing_gap:cust_001418:20241031", "step": "detect", "type": "billing_gap", "impact_usd": 14222.0}
+{"ts": "2026-11-08T18:59:06.280886+00:00", "finding_id": "billing_gap:cust_001456:20241027", "step": "detect", "type": "billing_gap", "impact_usd": 14860.0}
+{"ts": "2026-11-08T18:59:06.280951+00:00", "finding_id": "billing_gap:cust_001459:20240822", "step": "detect", "type": "billing_gap", "impact_usd": 1364.0}
+{"ts": "2026-11-08T18:59:06.280996+00:00", "finding_id": "billing_gap:cust_001460:20241105", "step": "detect", "type": "billing_gap", "impact_usd": 8289.0}
+{"ts": "2026-11-08T18:59:06.281033+00:00", "finding_id": "billing_gap:cust_001476:20241113", "step": "detect", "type": "billing_gap", "impact_usd": 3399.0}
+{"ts": "2026-11-08T18:59:06.281070+00:00", "finding_id": "write_off:cust_000007", "step": "detect", "type": "write_off", "impact_usd": 4877.0}
+{"ts": "2026-11-08T18:59:06.281108+00:00", "finding_id": "write_off:cust_000013", "step": "detect", "type": "write_off", "impact_usd": 8461.0}
+{"ts": "2026-11-08T18:59:06.281144+00:00", "finding_id": "write_off:cust_000088", "step": "detect", "type": "write_off", "impact_usd": 25337.0}
+{"ts": "2026-11-08T18:59:06.281180+00:00", "finding_id": "write_off:cust_000089", "step": "detect", "type": "write_off", "impact_usd": 31236.0}
+{"ts": "2026-11-08T18:59:06.281216+00:00", "finding_id": "write_off:cust_000170", "step": "detect", "type": "write_off", "impact_usd": 8234.0}
+{"ts": "2026-11-08T18:59:06.281253+00:00", "finding_id": "write_off:cust_000253", "step": "detect", "type": "write_off", "impact_usd": 1245.0}
+{"ts": "2026-11-08T18:59:06.281288+00:00", "finding_id": "write_off:cust_000301", "step": "detect", "type": "write_off", "impact_usd": 5256.0}
+{"ts": "2026-11-08T18:59:06.281322+00:00", "finding_id": "write_off:cust_000303", "step": "detect", "type": "write_off", "impact_usd": 2623.0}
+{"ts": "2026-11-08T18:59:06.281357+00:00", "finding_id": "write_off:cust_000566", "step": "detect", "type": "write_off", "impact_usd": 10797.0}
+{"ts": "2026-11-08T18:59:06.281423+00:00", "finding_id": "write_off:cust_000629", "step": "detect", "type": "write_off", "impact_usd": 10547.0}
+{"ts": "2026-11-08T18:59:06.281474+00:00", "finding_id": "write_off:cust_000752", "step": "detect", "type": "write_off", "impact_usd": 6431.0}
+{"ts": "2026-11-08T18:59:06.281515+00:00", "finding_id": "write_off:cust_000988", "step": "detect", "type": "write_off", "impact_usd": 21040.0}
+{"ts": "2026-11-08T18:59:06.281552+00:00", "finding_id": "write_off:cust_000992", "step": "detect", "type": "write_off", "impact_usd": 10846.0}
+{"ts": "2026-11-08T18:59:06.281587+00:00", "finding_id": "write_off:cust_001007", "step": "detect", "type": "write_off", "impact_usd": 23618.0}
+{"ts": "2026-11-08T18:59:06.281632+00:00", "finding_id": "write_off:cust_001051", "step": "detect", "type": "write_off", "impact_usd": 10567.0}
+{"ts": "2026-11-08T18:59:06.281679+00:00", "finding_id": "write_off:cust_001070", "step": "detect", "type": "write_off", "impact_usd": 6763.0}
+{"ts": "2026-11-08T18:59:06.281715+00:00", "finding_id": "write_off:cust_001125", "step": "detect", "type": "write_off", "impact_usd": 22577.0}
+{"ts": "2026-11-08T18:59:06.281752+00:00", "finding_id": "write_off:cust_001173", "step": "detect", "type": "write_off", "impact_usd": 19681.0}
+{"ts": "2026-11-08T18:59:06.281788+00:00", "finding_id": "write_off:cust_001179", "step": "detect", "type": "write_off", "impact_usd": 7525.0}
+{"ts": "2026-11-08T18:59:06.281822+00:00", "finding_id": "write_off:cust_001219", "step": "detect", "type": "write_off", "impact_usd": 14234.0}
+{"ts": "2026-11-08T18:59:06.281857+00:00", "finding_id": "write_off:cust_001250", "step": "detect", "type": "write_off", "impact_usd": 45694.0}
+{"ts": "2026-11-08T18:59:06.281892+00:00", "finding_id": "write_off:cust_001263", "step": "detect", "type": "write_off", "impact_usd": 3673.0}
+{"ts": "2026-11-08T18:59:06.281957+00:00", "finding_id": "write_off:cust_001279", "step": "detect", "type": "write_off", "impact_usd": 23744.0}
+{"ts": "2026-11-08T18:59:06.281999+00:00", "finding_id": "write_off:cust_001328", "step": "detect", "type": "write_off", "impact_usd": 3518.0}
+{"ts": "2026-11-08T18:59:06.282036+00:00", "finding_id": "unrecovered_failure:cust_000206", "step": "detect", "type": "unrecovered_failure", "impact_usd": 5836.0}
+{"ts": "2026-11-08T18:59:06.285247+00:00", "finding_id": "silent_discount:cust_000039", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.285357+00:00", "finding_id": "unbilled_expansion:cust_000065", "step": "diagnose", "confidence": 0.85, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.285450+00:00", "finding_id": "unbilled_expansion:cust_000077", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.285504+00:00", "finding_id": "unbilled_expansion:cust_000079", "step": "diagnose", "confidence": 0.85, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.285546+00:00", "finding_id": "silent_discount:cust_000092", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.285590+00:00", "finding_id": "silent_discount:cust_000158", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.285641+00:00", "finding_id": "unbilled_expansion:cust_000176", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.285685+00:00", "finding_id": "unbilled_expansion:cust_000203", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.285724+00:00", "finding_id": "unbilled_expansion:cust_000218", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.285761+00:00", "finding_id": "silent_discount:cust_000220", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.285797+00:00", "finding_id": "silent_discount:cust_000238", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.285833+00:00", "finding_id": "silent_discount:cust_000248", "step": "diagnose", "confidence": 0.9, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.285870+00:00", "finding_id": "silent_discount:cust_000250", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.285934+00:00", "finding_id": "unbilled_expansion:cust_000264", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.285984+00:00", "finding_id": "unbilled_expansion:cust_000347", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.286024+00:00", "finding_id": "unbilled_expansion:cust_000351", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.286061+00:00", "finding_id": "silent_discount:cust_000378", "step": "diagnose", "confidence": 0.9, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.286099+00:00", "finding_id": "silent_discount:cust_000405", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.286144+00:00", "finding_id": "unbilled_expansion:cust_000411", "step": "diagnose", "confidence": 0.95, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286182+00:00", "finding_id": "silent_discount:cust_000421", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286219+00:00", "finding_id": "unbilled_expansion:cust_000424", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.286255+00:00", "finding_id": "silent_discount:cust_000448", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.286292+00:00", "finding_id": "silent_discount:cust_000455", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.286326+00:00", "finding_id": "silent_discount:cust_000485", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286362+00:00", "finding_id": "silent_discount:cust_000528", "step": "diagnose", "confidence": 0.9, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.286397+00:00", "finding_id": "unbilled_expansion:cust_000552", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.286433+00:00", "finding_id": "silent_discount:cust_000586", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286468+00:00", "finding_id": "unbilled_expansion:cust_000601", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286504+00:00", "finding_id": "silent_discount:cust_000606", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286540+00:00", "finding_id": "silent_discount:cust_000615", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.286574+00:00", "finding_id": "silent_discount:cust_000628", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286608+00:00", "finding_id": "silent_discount:cust_000643", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286662+00:00", "finding_id": "silent_discount:cust_000741", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286701+00:00", "finding_id": "unbilled_expansion:cust_000790", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286738+00:00", "finding_id": "unbilled_expansion:cust_000793", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.286773+00:00", "finding_id": "unbilled_expansion:cust_000819", "step": "diagnose", "confidence": 0.95, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286808+00:00", "finding_id": "unbilled_expansion:cust_000850", "step": "diagnose", "confidence": 0.85, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.286844+00:00", "finding_id": "unbilled_expansion:cust_000860", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.286880+00:00", "finding_id": "silent_discount:cust_000887", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.286942+00:00", "finding_id": "silent_discount:cust_000888", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.286991+00:00", "finding_id": "unbilled_expansion:cust_000955", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.287030+00:00", "finding_id": "silent_discount:cust_000958", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287068+00:00", "finding_id": "unbilled_expansion:cust_000975", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.287105+00:00", "finding_id": "silent_discount:cust_001027", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.287141+00:00", "finding_id": "silent_discount:cust_001039", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287180+00:00", "finding_id": "silent_discount:cust_001080", "step": "diagnose", "confidence": 0.9, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.287216+00:00", "finding_id": "silent_discount:cust_001093", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287251+00:00", "finding_id": "unbilled_expansion:cust_001123", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.287287+00:00", "finding_id": "silent_discount:cust_001170", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287323+00:00", "finding_id": "silent_discount:cust_001186", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287359+00:00", "finding_id": "unbilled_expansion:cust_001222", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.287395+00:00", "finding_id": "unbilled_expansion:cust_001224", "step": "diagnose", "confidence": 0.95, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.287432+00:00", "finding_id": "unbilled_expansion:cust_001238", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287467+00:00", "finding_id": "silent_discount:cust_001241", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287502+00:00", "finding_id": "silent_discount:cust_001262", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287537+00:00", "finding_id": "unbilled_expansion:cust_001338", "step": "diagnose", "confidence": 0.95, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287571+00:00", "finding_id": "silent_discount:cust_001356", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287607+00:00", "finding_id": "silent_discount:cust_001388", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287651+00:00", "finding_id": "silent_discount:cust_001393", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287693+00:00", "finding_id": "silent_discount:cust_001408", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.287728+00:00", "finding_id": "unbilled_expansion:cust_001436", "step": "diagnose", "confidence": 0.95, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287764+00:00", "finding_id": "silent_discount:cust_001438", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.287800+00:00", "finding_id": "silent_discount:cust_001439", "step": "diagnose", "confidence": 0.9, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.287837+00:00", "finding_id": "unbilled_expansion:cust_001448", "step": "diagnose", "confidence": 0.95, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287873+00:00", "finding_id": "unbilled_expansion:cust_001461", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287927+00:00", "finding_id": "billing_gap:cust_000021:20240613", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.287976+00:00", "finding_id": "billing_gap:cust_000022:20240712", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288016+00:00", "finding_id": "billing_gap:cust_000023:20240513", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288054+00:00", "finding_id": "billing_gap:cust_000074:20240716", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288091+00:00", "finding_id": "billing_gap:cust_000129:20241008", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288127+00:00", "finding_id": "billing_gap:cust_000132:20240927", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288164+00:00", "finding_id": "billing_gap:cust_000135:20240910", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288203+00:00", "finding_id": "billing_gap:cust_000153:20241124", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288239+00:00", "finding_id": "billing_gap:cust_000197:20240920", "step": "diagnose", "confidence": 0.85, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.288274+00:00", "finding_id": "billing_gap:cust_000214:20240717", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288309+00:00", "finding_id": "billing_gap:cust_000237:20240529", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288343+00:00", "finding_id": "billing_gap:cust_000244:20241016", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288380+00:00", "finding_id": "billing_gap:cust_000329:20241114", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288415+00:00", "finding_id": "billing_gap:cust_000336:20240913", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288451+00:00", "finding_id": "billing_gap:cust_000361:20240904", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288487+00:00", "finding_id": "billing_gap:cust_000369:20240425", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288522+00:00", "finding_id": "billing_gap:cust_000437:20241010", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288556+00:00", "finding_id": "billing_gap:cust_000463:20240829", "step": "diagnose", "confidence": 0.85, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.288591+00:00", "finding_id": "billing_gap:cust_000474:20241023", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288635+00:00", "finding_id": "billing_gap:cust_000560:20240930", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288678+00:00", "finding_id": "billing_gap:cust_000633:20241021", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288715+00:00", "finding_id": "billing_gap:cust_000649:20241018", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288751+00:00", "finding_id": "billing_gap:cust_000708:20241017", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.288787+00:00", "finding_id": "billing_gap:cust_000710:20241114", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288824+00:00", "finding_id": "billing_gap:cust_000736:20240610", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288860+00:00", "finding_id": "billing_gap:cust_000742:20240808", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288896+00:00", "finding_id": "billing_gap:cust_000795:20241030", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.288963+00:00", "finding_id": "billing_gap:cust_000815:20241115", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289005+00:00", "finding_id": "billing_gap:cust_000827:20241021", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289043+00:00", "finding_id": "billing_gap:cust_000869:20240921", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289080+00:00", "finding_id": "billing_gap:cust_000969:20241007", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289116+00:00", "finding_id": "billing_gap:cust_001002:20241003", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289153+00:00", "finding_id": "billing_gap:cust_001045:20240922", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289190+00:00", "finding_id": "billing_gap:cust_001050:20240317", "step": "diagnose", "confidence": 0.85, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.289229+00:00", "finding_id": "billing_gap:cust_001100:20240211", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289265+00:00", "finding_id": "billing_gap:cust_001102:20240830", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289302+00:00", "finding_id": "billing_gap:cust_001103:20240714", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289338+00:00", "finding_id": "billing_gap:cust_001150:20240619", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289374+00:00", "finding_id": "billing_gap:cust_001168:20240514", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289448+00:00", "finding_id": "billing_gap:cust_001179:20240326", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289496+00:00", "finding_id": "billing_gap:cust_001240:20240415", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289537+00:00", "finding_id": "billing_gap:cust_001267:20240704", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289575+00:00", "finding_id": "billing_gap:cust_001283:20240917", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289611+00:00", "finding_id": "billing_gap:cust_001304:20240331", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289657+00:00", "finding_id": "billing_gap:cust_001318:20241109", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289696+00:00", "finding_id": "billing_gap:cust_001344:20241006", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289732+00:00", "finding_id": "billing_gap:cust_001358:20240608", "step": "diagnose", "confidence": 0.85, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.289768+00:00", "finding_id": "billing_gap:cust_001418:20241031", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289804+00:00", "finding_id": "billing_gap:cust_001456:20241027", "step": "diagnose", "confidence": 0.85, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.289839+00:00", "finding_id": "billing_gap:cust_001459:20240822", "step": "diagnose", "confidence": 0.85, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.289875+00:00", "finding_id": "billing_gap:cust_001460:20241105", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289931+00:00", "finding_id": "billing_gap:cust_001476:20241113", "step": "diagnose", "confidence": 0.85, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.289980+00:00", "finding_id": "write_off:cust_000007", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290020+00:00", "finding_id": "write_off:cust_000013", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290057+00:00", "finding_id": "write_off:cust_000088", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290094+00:00", "finding_id": "write_off:cust_000089", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290131+00:00", "finding_id": "write_off:cust_000170", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290166+00:00", "finding_id": "write_off:cust_000253", "step": "diagnose", "confidence": 0.99, "severity": "low"}
+{"ts": "2026-11-08T18:59:06.290202+00:00", "finding_id": "write_off:cust_000301", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290238+00:00", "finding_id": "write_off:cust_000303", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290274+00:00", "finding_id": "write_off:cust_000566", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290318+00:00", "finding_id": "write_off:cust_000629", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290356+00:00", "finding_id": "write_off:cust_000752", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290392+00:00", "finding_id": "write_off:cust_000988", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290427+00:00", "finding_id": "write_off:cust_000992", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290463+00:00", "finding_id": "write_off:cust_001007", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290498+00:00", "finding_id": "write_off:cust_001051", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290533+00:00", "finding_id": "write_off:cust_001070", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290567+00:00", "finding_id": "write_off:cust_001125", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290603+00:00", "finding_id": "write_off:cust_001173", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290646+00:00", "finding_id": "write_off:cust_001179", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290686+00:00", "finding_id": "write_off:cust_001219", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290721+00:00", "finding_id": "write_off:cust_001250", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290756+00:00", "finding_id": "write_off:cust_001263", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290792+00:00", "finding_id": "write_off:cust_001279", "step": "diagnose", "confidence": 0.99, "severity": "high"}
+{"ts": "2026-11-08T18:59:06.290830+00:00", "finding_id": "write_off:cust_001328", "step": "diagnose", "confidence": 0.99, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.290866+00:00", "finding_id": "unrecovered_failure:cust_000206", "step": "diagnose", "confidence": 0.9, "severity": "medium"}
+{"ts": "2026-11-08T18:59:06.292596+00:00", "finding_id": "unbilled_expansion:cust_000860", "step": "decide", "status": "escalated", "strategy": "request_correction_invoice", "reason": "impact is at or above $25,000", "impact_usd": 104033.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.292722+00:00", "finding_id": "unbilled_expansion:cust_000351", "step": "decide", "status": "escalated", "strategy": "request_correction_invoice", "reason": "impact is at or above $25,000", "impact_usd": 54839.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.292780+00:00", "finding_id": "unbilled_expansion:cust_000975", "step": "decide", "status": "escalated", "strategy": "request_correction_invoice", "reason": "impact is at or above $25,000", "impact_usd": 49126.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.292833+00:00", "finding_id": "billing_gap:cust_000074:20240716", "step": "decide", "status": "escalated", "strategy": "request_backbill", "reason": "impact is at or above $25,000", "impact_usd": 47756.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.292883+00:00", "finding_id": "unbilled_expansion:cust_000218", "step": "decide", "status": "escalated", "strategy": "request_correction_invoice", "reason": "impact is at or above $25,000", "impact_usd": 46736.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.292975+00:00", "finding_id": "write_off:cust_001250", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 45694.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.293028+00:00", "finding_id": "billing_gap:cust_001168:20240514", "step": "decide", "status": "escalated", "strategy": "request_backbill", "reason": "impact is at or above $25,000", "impact_usd": 43490.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.293082+00:00", "finding_id": "billing_gap:cust_001102:20240830", "step": "decide", "status": "escalated", "strategy": "request_backbill", "reason": "impact is at or above $25,000", "impact_usd": 37426.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.293126+00:00", "finding_id": "unbilled_expansion:cust_000793", "step": "decide", "status": "escalated", "strategy": "request_correction_invoice", "reason": "impact is at or above $25,000", "impact_usd": 37002.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.293171+00:00", "finding_id": "billing_gap:cust_000708:20241017", "step": "decide", "status": "escalated", "strategy": "request_backbill", "reason": "impact is at or above $25,000", "impact_usd": 36698.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.293214+00:00", "finding_id": "unbilled_expansion:cust_000347", "step": "decide", "status": "escalated", "strategy": "request_correction_invoice", "reason": "impact is at or above $25,000", "impact_usd": 35238.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.293257+00:00", "finding_id": "write_off:cust_000089", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 31236.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.293299+00:00", "finding_id": "billing_gap:cust_000237:20240529", "step": "decide", "status": "escalated", "strategy": "request_backbill", "reason": "impact is at or above $25,000", "impact_usd": 27134.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.293341+00:00", "finding_id": "write_off:cust_000088", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 25337.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.293384+00:00", "finding_id": "unbilled_expansion:cust_001224", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 24971.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.293474+00:00", "finding_id": "unbilled_expansion:cust_000264", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 24703.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.293522+00:00", "finding_id": "write_off:cust_001279", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 23744.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.293567+00:00", "finding_id": "write_off:cust_001007", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 23618.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.293608+00:00", "finding_id": "write_off:cust_001125", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 22577.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.293662+00:00", "finding_id": "billing_gap:cust_001045:20240922", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 21258.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.293708+00:00", "finding_id": "write_off:cust_000988", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 21040.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.293750+00:00", "finding_id": "unbilled_expansion:cust_000552", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 20468.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.293790+00:00", "finding_id": "write_off:cust_001173", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 19681.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.293836+00:00", "finding_id": "unbilled_expansion:cust_001123", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 17700.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.293877+00:00", "finding_id": "silent_discount:cust_001080", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 17423.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.293952+00:00", "finding_id": "billing_gap:cust_000129:20241008", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 16000.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294004+00:00", "finding_id": "billing_gap:cust_001240:20240415", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 15418.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294046+00:00", "finding_id": "billing_gap:cust_000474:20241023", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 15150.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294089+00:00", "finding_id": "billing_gap:cust_001179:20240326", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 15060.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294132+00:00", "finding_id": "billing_gap:cust_001456:20241027", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 14860.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294175+00:00", "finding_id": "silent_discount:cust_000248", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 14755.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.294216+00:00", "finding_id": "unbilled_expansion:cust_000955", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 14584.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.294258+00:00", "finding_id": "write_off:cust_001219", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 14234.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.294299+00:00", "finding_id": "billing_gap:cust_001418:20241031", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 14222.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294341+00:00", "finding_id": "billing_gap:cust_001344:20241006", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 14006.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294382+00:00", "finding_id": "billing_gap:cust_000244:20241016", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 13890.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294422+00:00", "finding_id": "billing_gap:cust_000022:20240712", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 13732.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294463+00:00", "finding_id": "unbilled_expansion:cust_000203", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 13615.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.294504+00:00", "finding_id": "billing_gap:cust_001267:20240704", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 13182.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294544+00:00", "finding_id": "silent_discount:cust_000378", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 12949.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.294586+00:00", "finding_id": "silent_discount:cust_000528", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 12888.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.294638+00:00", "finding_id": "billing_gap:cust_000361:20240904", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 12048.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294685+00:00", "finding_id": "unbilled_expansion:cust_000424", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 11828.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.294726+00:00", "finding_id": "billing_gap:cust_001150:20240619", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 11774.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294766+00:00", "finding_id": "billing_gap:cust_000369:20240425", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 10857.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294805+00:00", "finding_id": "write_off:cust_000992", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 10846.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.294844+00:00", "finding_id": "write_off:cust_000566", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 10797.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.294885+00:00", "finding_id": "billing_gap:cust_000969:20241007", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 10728.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.294952+00:00", "finding_id": "write_off:cust_001051", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 10567.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.295006+00:00", "finding_id": "write_off:cust_000629", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 10547.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.295050+00:00", "finding_id": "unbilled_expansion:cust_001222", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 10403.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.295093+00:00", "finding_id": "silent_discount:cust_001039", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 9997.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.295137+00:00", "finding_id": "billing_gap:cust_000869:20240921", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 9858.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295179+00:00", "finding_id": "silent_discount:cust_001262", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 9432.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.295222+00:00", "finding_id": "silent_discount:cust_001170", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 9185.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.295263+00:00", "finding_id": "unbilled_expansion:cust_001448", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 9070.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.295306+00:00", "finding_id": "billing_gap:cust_000023:20240513", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 8708.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295348+00:00", "finding_id": "write_off:cust_000013", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 8461.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.295392+00:00", "finding_id": "silent_discount:cust_001356", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 8308.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.295433+00:00", "finding_id": "billing_gap:cust_001460:20241105", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 8289.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295475+00:00", "finding_id": "write_off:cust_000170", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 8234.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.295517+00:00", "finding_id": "billing_gap:cust_000649:20241018", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 8174.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295557+00:00", "finding_id": "billing_gap:cust_001100:20240211", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 7940.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295597+00:00", "finding_id": "write_off:cust_001179", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 7525.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.295647+00:00", "finding_id": "billing_gap:cust_000795:20241030", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 7352.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295694+00:00", "finding_id": "billing_gap:cust_000329:20241114", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 7285.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295736+00:00", "finding_id": "billing_gap:cust_000135:20240910", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 7105.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295778+00:00", "finding_id": "billing_gap:cust_001002:20241003", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 6992.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295821+00:00", "finding_id": "unbilled_expansion:cust_000411", "step": "decide", "status": "drafted", "strategy": "request_correction_invoice", "reason": "within limits", "impact_usd": 6984.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.295863+00:00", "finding_id": "billing_gap:cust_000560:20240930", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 6920.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.295924+00:00", "finding_id": "write_off:cust_001070", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 6763.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.295981+00:00", "finding_id": "billing_gap:cust_000633:20241021", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 6656.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296055+00:00", "finding_id": "billing_gap:cust_000742:20240808", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 6538.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296103+00:00", "finding_id": "write_off:cust_000752", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 6431.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.296149+00:00", "finding_id": "billing_gap:cust_001103:20240714", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 6424.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296191+00:00", "finding_id": "billing_gap:cust_001318:20241109", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 6415.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296235+00:00", "finding_id": "billing_gap:cust_000710:20241114", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 6410.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296277+00:00", "finding_id": "billing_gap:cust_000214:20240717", "step": "decide", "status": "drafted", "strategy": "request_backbill", "reason": "within limits", "impact_usd": 6392.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296317+00:00", "finding_id": "silent_discount:cust_000485", "step": "decide", "status": "drafted", "strategy": "route_to_deal_desk", "reason": "within limits", "impact_usd": 6109.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.296361+00:00", "finding_id": "silent_discount:cust_000158", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 5997.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.296403+00:00", "finding_id": "unrecovered_failure:cust_000206", "step": "decide", "status": "deferred", "strategy": "draft_dunning_outreach", "reason": "draft budget of 50 per run reached", "impact_usd": 5836.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.296445+00:00", "finding_id": "billing_gap:cust_000336:20240913", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 5786.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296486+00:00", "finding_id": "silent_discount:cust_001093", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 5631.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.296527+00:00", "finding_id": "unbilled_expansion:cust_001338", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 5614.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.296570+00:00", "finding_id": "silent_discount:cust_000092", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 5432.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.296610+00:00", "finding_id": "write_off:cust_000301", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 5256.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.296663+00:00", "finding_id": "billing_gap:cust_001283:20240917", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 5182.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296707+00:00", "finding_id": "silent_discount:cust_001186", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 5173.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.296749+00:00", "finding_id": "silent_discount:cust_000643", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 5157.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.296790+00:00", "finding_id": "billing_gap:cust_000153:20241124", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 5102.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.296831+00:00", "finding_id": "silent_discount:cust_000887", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 4972.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.296874+00:00", "finding_id": "write_off:cust_000007", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 4877.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.296947+00:00", "finding_id": "unbilled_expansion:cust_000819", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 4632.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.297000+00:00", "finding_id": "silent_discount:cust_000250", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 4473.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.297045+00:00", "finding_id": "unbilled_expansion:cust_001238", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 4397.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297088+00:00", "finding_id": "silent_discount:cust_001393", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 4236.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.297130+00:00", "finding_id": "unbilled_expansion:cust_000077", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 4128.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297174+00:00", "finding_id": "silent_discount:cust_000039", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 4037.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.297217+00:00", "finding_id": "billing_gap:cust_000437:20241010", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 3930.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297259+00:00", "finding_id": "billing_gap:cust_000827:20241021", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 3826.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297300+00:00", "finding_id": "write_off:cust_001263", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 3673.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.297343+00:00", "finding_id": "billing_gap:cust_000736:20240610", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 3558.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297383+00:00", "finding_id": "silent_discount:cust_001388", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 3521.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.297464+00:00", "finding_id": "write_off:cust_001328", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 3518.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.297513+00:00", "finding_id": "billing_gap:cust_001476:20241113", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 3399.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297557+00:00", "finding_id": "silent_discount:cust_000628", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 3105.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.297600+00:00", "finding_id": "billing_gap:cust_000021:20240613", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 3016.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297653+00:00", "finding_id": "silent_discount:cust_000741", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 2885.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.297702+00:00", "finding_id": "unbilled_expansion:cust_000601", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 2865.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297746+00:00", "finding_id": "unbilled_expansion:cust_001436", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 2860.0, "confidence": 0.95}
+{"ts": "2026-11-08T18:59:06.297789+00:00", "finding_id": "billing_gap:cust_000815:20241115", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 2806.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297831+00:00", "finding_id": "billing_gap:cust_000132:20240927", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 2801.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297872+00:00", "finding_id": "silent_discount:cust_000421", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 2784.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.297934+00:00", "finding_id": "unbilled_expansion:cust_000176", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 2728.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.297988+00:00", "finding_id": "write_off:cust_000303", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 2623.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.298032+00:00", "finding_id": "silent_discount:cust_000606", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 2570.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298077+00:00", "finding_id": "silent_discount:cust_001241", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 2255.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298120+00:00", "finding_id": "silent_discount:cust_000586", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 2249.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298160+00:00", "finding_id": "billing_gap:cust_001304:20240331", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 2144.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298201+00:00", "finding_id": "unbilled_expansion:cust_001461", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 2128.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298243+00:00", "finding_id": "unbilled_expansion:cust_000790", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 2063.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298284+00:00", "finding_id": "silent_discount:cust_000958", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 2047.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298324+00:00", "finding_id": "unbilled_expansion:cust_000850", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 1989.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298368+00:00", "finding_id": "silent_discount:cust_000448", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 1972.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298409+00:00", "finding_id": "unbilled_expansion:cust_000079", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 1972.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298450+00:00", "finding_id": "silent_discount:cust_001027", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 1962.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298491+00:00", "finding_id": "silent_discount:cust_000888", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 1917.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298533+00:00", "finding_id": "silent_discount:cust_000220", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 1910.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298575+00:00", "finding_id": "billing_gap:cust_001050:20240317", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 1774.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298616+00:00", "finding_id": "unbilled_expansion:cust_000065", "step": "decide", "status": "deferred", "strategy": "request_correction_invoice", "reason": "draft budget of 50 per run reached", "impact_usd": 1715.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298668+00:00", "finding_id": "silent_discount:cust_001438", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 1570.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298711+00:00", "finding_id": "silent_discount:cust_000405", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 1494.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298752+00:00", "finding_id": "silent_discount:cust_001408", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 1430.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298793+00:00", "finding_id": "billing_gap:cust_000463:20240829", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 1418.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298835+00:00", "finding_id": "silent_discount:cust_001439", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 1413.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.298875+00:00", "finding_id": "billing_gap:cust_001459:20240822", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 1364.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.298933+00:00", "finding_id": "write_off:cust_000253", "step": "decide", "status": "escalated", "strategy": "escalate_human", "reason": "policy: this finding type always needs a human decision", "impact_usd": 1245.0, "confidence": 0.99}
+{"ts": "2026-11-08T18:59:06.298987+00:00", "finding_id": "billing_gap:cust_000197:20240920", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 1118.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.299030+00:00", "finding_id": "billing_gap:cust_001358:20240608", "step": "decide", "status": "deferred", "strategy": "request_backbill", "reason": "draft budget of 50 per run reached", "impact_usd": 1007.0, "confidence": 0.85}
+{"ts": "2026-11-08T18:59:06.299074+00:00", "finding_id": "silent_discount:cust_000455", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 917.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.299115+00:00", "finding_id": "silent_discount:cust_000615", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 810.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.299156+00:00", "finding_id": "silent_discount:cust_000238", "step": "decide", "status": "deferred", "strategy": "route_to_deal_desk", "reason": "draft budget of 50 per run reached", "impact_usd": 679.0, "confidence": 0.9}
+{"ts": "2026-11-08T18:59:06.301637+00:00", "finding_id": "unbilled_expansion:cust_000860", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.301868+00:00", "finding_id": "unbilled_expansion:cust_000351", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.302097+00:00", "finding_id": "unbilled_expansion:cust_000975", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.302268+00:00", "finding_id": "billing_gap:cust_000074:20240716", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.302408+00:00", "finding_id": "unbilled_expansion:cust_000218", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.302529+00:00", "finding_id": "write_off:cust_001250", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.302665+00:00", "finding_id": "billing_gap:cust_001168:20240514", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.302809+00:00", "finding_id": "billing_gap:cust_001102:20240830", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.302980+00:00", "finding_id": "unbilled_expansion:cust_000793", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.303104+00:00", "finding_id": "billing_gap:cust_000708:20241017", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.303224+00:00", "finding_id": "unbilled_expansion:cust_000347", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.303337+00:00", "finding_id": "write_off:cust_000089", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.303449+00:00", "finding_id": "billing_gap:cust_000237:20240529", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.303561+00:00", "finding_id": "write_off:cust_000088", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.303690+00:00", "finding_id": "unbilled_expansion:cust_001224", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.303808+00:00", "finding_id": "unbilled_expansion:cust_000264", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.303948+00:00", "finding_id": "write_off:cust_001279", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.304070+00:00", "finding_id": "write_off:cust_001007", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.304182+00:00", "finding_id": "write_off:cust_001125", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.304299+00:00", "finding_id": "billing_gap:cust_001045:20240922", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.304409+00:00", "finding_id": "write_off:cust_000988", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.304525+00:00", "finding_id": "unbilled_expansion:cust_000552", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.304647+00:00", "finding_id": "write_off:cust_001173", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.304766+00:00", "finding_id": "unbilled_expansion:cust_001123", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.304879+00:00", "finding_id": "silent_discount:cust_001080", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.305034+00:00", "finding_id": "billing_gap:cust_000129:20241008", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.305155+00:00", "finding_id": "billing_gap:cust_001240:20240415", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.305267+00:00", "finding_id": "billing_gap:cust_000474:20241023", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.305379+00:00", "finding_id": "billing_gap:cust_001179:20240326", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.305556+00:00", "finding_id": "billing_gap:cust_001456:20241027", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.305688+00:00", "finding_id": "silent_discount:cust_000248", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.305801+00:00", "finding_id": "unbilled_expansion:cust_000955", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.305935+00:00", "finding_id": "write_off:cust_001219", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306063+00:00", "finding_id": "billing_gap:cust_001418:20241031", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306178+00:00", "finding_id": "billing_gap:cust_001344:20241006", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306289+00:00", "finding_id": "billing_gap:cust_000244:20241016", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306395+00:00", "finding_id": "billing_gap:cust_000022:20240712", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306504+00:00", "finding_id": "unbilled_expansion:cust_000203", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306610+00:00", "finding_id": "billing_gap:cust_001267:20240704", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306737+00:00", "finding_id": "silent_discount:cust_000378", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306845+00:00", "finding_id": "silent_discount:cust_000528", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.306993+00:00", "finding_id": "billing_gap:cust_000361:20240904", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.307113+00:00", "finding_id": "unbilled_expansion:cust_000424", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.307228+00:00", "finding_id": "billing_gap:cust_001150:20240619", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.307336+00:00", "finding_id": "billing_gap:cust_000369:20240425", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.307444+00:00", "finding_id": "write_off:cust_000992", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.307555+00:00", "finding_id": "write_off:cust_000566", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.307679+00:00", "finding_id": "billing_gap:cust_000969:20241007", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.307798+00:00", "finding_id": "write_off:cust_001051", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.307937+00:00", "finding_id": "write_off:cust_000629", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.308068+00:00", "finding_id": "unbilled_expansion:cust_001222", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.308183+00:00", "finding_id": "silent_discount:cust_001039", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.308292+00:00", "finding_id": "billing_gap:cust_000869:20240921", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.308409+00:00", "finding_id": "silent_discount:cust_001262", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.308522+00:00", "finding_id": "silent_discount:cust_001170", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.308649+00:00", "finding_id": "unbilled_expansion:cust_001448", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.308767+00:00", "finding_id": "billing_gap:cust_000023:20240513", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.308876+00:00", "finding_id": "write_off:cust_000013", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.309033+00:00", "finding_id": "silent_discount:cust_001356", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.309150+00:00", "finding_id": "billing_gap:cust_001460:20241105", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.309259+00:00", "finding_id": "write_off:cust_000170", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.309368+00:00", "finding_id": "billing_gap:cust_000649:20241018", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.309532+00:00", "finding_id": "billing_gap:cust_001100:20240211", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.309660+00:00", "finding_id": "write_off:cust_001179", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.309777+00:00", "finding_id": "billing_gap:cust_000795:20241030", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.309890+00:00", "finding_id": "billing_gap:cust_000329:20241114", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310048+00:00", "finding_id": "billing_gap:cust_000135:20240910", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310165+00:00", "finding_id": "billing_gap:cust_001002:20241003", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310280+00:00", "finding_id": "unbilled_expansion:cust_000411", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310393+00:00", "finding_id": "billing_gap:cust_000560:20240930", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310504+00:00", "finding_id": "write_off:cust_001070", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310616+00:00", "finding_id": "billing_gap:cust_000633:20241021", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310745+00:00", "finding_id": "billing_gap:cust_000742:20240808", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310854+00:00", "finding_id": "write_off:cust_000752", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.310999+00:00", "finding_id": "billing_gap:cust_001103:20240714", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.311115+00:00", "finding_id": "billing_gap:cust_001318:20241109", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.311224+00:00", "finding_id": "billing_gap:cust_000710:20241114", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.311332+00:00", "finding_id": "billing_gap:cust_000214:20240717", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.311444+00:00", "finding_id": "silent_discount:cust_000485", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.311551+00:00", "finding_id": "write_off:cust_000301", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.311669+00:00", "finding_id": "write_off:cust_000007", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.311779+00:00", "finding_id": "write_off:cust_001263", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.311885+00:00", "finding_id": "write_off:cust_001328", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.312028+00:00", "finding_id": "write_off:cust_000303", "step": "explain", "source": "rules"}
+{"ts": "2026-11-08T18:59:06.312142+00:00", "finding_id": "write_off:cust_000253", "step": "explain", "source": "rules"}

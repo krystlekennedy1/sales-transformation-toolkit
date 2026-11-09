@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=1.26
+pytest>=8
+# only needed to regenerate the data
+pyarrow>=15
+leadforge>=1.0
+# only needed for --ai
+anthropic>=0.40
